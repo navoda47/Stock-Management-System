@@ -1,0 +1,12 @@
+.container-fluid{
+    background: rgb(222,131,218);
+    background: linear-gradient(90deg, rgba(222,131,218,1) 0%, rgba(86,196,237,1) 100%); 
+}
+.card{
+    z-index: 1;
+    background-color:#fffefe17;
+}
+.h2{
+    font-weight: bolder;
+    
+}
