@@ -129,8 +129,8 @@
                         <th width="12%">Item Name</th>
                         <th width="10%">Request Quantity</th>
                         <th width="10%">Available Quantity</th>
-                        <th width="10%">Deliver Quantity</th>
-                        <th width="9%">Action</th>
+                        <th width="2%">Deliver Quantity</th>
+                        <th width="10%">Action</th>
                       </tr>
                     </thead>
                     <tbody>
@@ -161,10 +161,10 @@
                                     <td>$item</td>
                                     <td>$record[rqty]</td>
                                     <td>$record[qty]</td>
-                                    <td><input class='dqty' type='number' class='form-control' onkeypress='return onlyNumberKey(event)' min='0'></td>
+                                    <td><input class='dqty' type='number' class='form-control w-10' onkeypress='return onlyNumberKey(event)' min='0'></td>
           
                                     <td  class='project-actions text-justify'>   
-                                        <button  class='btn btn-primary deliver'><i class='fa fa-check-circle'></i>Dilivered</button>
+                                        <button  class='btn btn-primary deliver'><i class='fa fa-check-circle'></i></button>
                                         <button  name='delete' class='btn btn-danger delete'><i class='fas fa-times-circle'></i></buttton>
                                     </td>
                                 </tr>

@@ -20,7 +20,7 @@
       
 
       <!-- sidebar -->
-      <?php include_once("./inc/sidebar.inc.php"); ?>
+  <?php include_once("./inc/sidebar.inc.php"); ?>
       <!-- /sidebar -->
   <div class="content-wrapper">
     <div class="content-header">
@@ -65,34 +65,21 @@
               </div>
             </div>
             <div class="card card-primary">
-              
               <div class="card-body w-1200" >
                 <div>
                   <div class="btn-group w-100 mb-2">
-                    
-                    
                     <!-- <input type="button" value="Monthly" class="btn btn-info" data-toggle='modal' data-target='#bModal'>  -->
                     <input type="button" value=" Yearly Report" class="btn btn-info" data-toggle='modal' data-target='#cModal'>
                   </div>
-                  
                     </div>
                   </div>
                 </div>
-                
-                
-
               </div>
-              
             </div>
-            
           </div>
-          
         </div>
       </div><!-- /.container-fluid -->
     </section> 
-    
-    
-
     <div class="modal fade" id="eModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
