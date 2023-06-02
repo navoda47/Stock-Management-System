@@ -30,7 +30,7 @@
 
     `git@github.com:navoda47/Stock-Management-System.git`
 
-* After cloning this project, you should create your database `stock` in your phpmyadmin after importing databse.sql you should go to your browser and type `localhost/stock-management-system/index.php`.
+* After cloning this project, you should create your database `stock` in your phpmyadmin after importing stock.sql you should go to your browser and type `localhost/stock-management-system/index.php`.
  
 * then you can see the login interface.
 
