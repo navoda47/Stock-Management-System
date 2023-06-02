@@ -11,15 +11,15 @@
 **Purpose of this project is to manage items in the store and computerize item ordering system.**
 
 In this project first you should create an account.and system sent to you an user name & passcode.you should remember that.
-![ss3].(.images/2.png)
+    ![ss3].(.images/2.png)
 Next your account should be  approved by the admin.
-![ss3].(.images/admin.png)
+    ![ss3].(.images/admin.png)
 Then you can login with the user name and passcode that you have alredy got.
-![ss3].(.images/1.png)
+    ![ss3].(.images/1.png)
 Now you can order items 
-![ss3].(.images/user.png)
+    ![ss3].(.images/user.png)
 Stock keeper should approve the orderd items.
-![ss3].(.images/stock.png)
+    ![ss3].(.images/stock.png)
 
 ## Installation
 * To use this system, first you should clone this to your local machine. To clone it copy and paste below command on your terminal. Then press enter to clone it.
