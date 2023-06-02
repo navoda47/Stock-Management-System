@@ -1,4 +1,4 @@
-#STOCK MANAGEMENT SYSTEM
+# STOCK MANAGEMENT SYSTEM
 
 ## Content
 
@@ -6,7 +6,7 @@
 -[Installation](#installation)
 -[Support](#support)
 
-##Purpose
+## Purpose
 
 **Purpose of this project is to manage items in the store and computerize item ordering system.**
 
@@ -25,7 +25,7 @@
 * Stock keeper should approve the orderd items.
     ![ss3](images/stock.png)
 
-##Installation
+## Installation
 * To use this system, first you should clone this to your local machine. To clone it copy and paste below command on your terminal. Then press enter to clone it.
 
     `git@github.com:navoda47/Stock-Management-System.git`
@@ -34,7 +34,7 @@
  
 * then you can see the login interface.
 
-##Support
+## Support
 * Give a start for this project :yum: and follow :cowboy_hat_face: 
 
 
